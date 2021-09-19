@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -122,4 +122,4 @@ export default function Search() {
     )
 
 }
->>>>>>> 10d0a42151d89d326c481e91def3def0db882472
+

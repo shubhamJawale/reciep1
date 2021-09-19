@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react'
 
 export default function Header() {
@@ -8,7 +8,7 @@ export default function Header() {
         </div>
     )
 }
-=======
+
 import React from 'react'
 
 export default function Header() {
@@ -18,4 +18,4 @@ export default function Header() {
         </div>
     )
 }
->>>>>>> 10d0a42151d89d326c481e91def3def0db882472
+

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react'
 
 export default function SearchingBar({ searchinp, searchkey, searchitem }) {
@@ -14,7 +14,7 @@ export default function SearchingBar({ searchinp, searchkey, searchitem }) {
         </div>
     )
 }
-=======
+
 import React from 'react'
 
 export default function SearchingBar({ searchinp, searchkey, searchitem }) {
@@ -30,4 +30,3 @@ export default function SearchingBar({ searchinp, searchkey, searchitem }) {
         </div>
     )
 }
->>>>>>> 10d0a42151d89d326c481e91def3def0db882472

@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+.list{
+  display:inline-flex;
+  flex-wrap: wrap;
+  overflow-x: hidden;
+
+}
+.listItem{
+
+  display: flex;
+  width: 25rem;
+ 
+  overflow: hidden;
+
+  
+
+}
+.listImg
+{
+  height: 25rem;
+  width: 100%;
+}
+.searchinp{
+  width: 100%;
+  padding: 0.38%;
+
+}
+.searchbar{
+  justify-content: center;
+  padding: 1%;
+
+}
+.ingrediantList
+{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 15rem;
+  
+}
+
+::-webkit-scrollbar{
+  background-color: white;
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background:black;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-button{
+  background: black;
+  width: 13px;
+}
+::-webkit-scrollbar{
+  background:grey;
+}
+

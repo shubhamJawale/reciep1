@@ -2,6 +2,7 @@
 import React from 'react';
 import { BarLoader } from 'react-spinners';
 import { Card, CardBody, CardFooter, CardHeader, CardImg, CardSubtitle, CardText, CardTitle } from "reactstrap";
+import Footers from './Footer';
 
 export default function List({ list1, loading }) {
 
@@ -47,6 +48,7 @@ export default function List({ list1, loading }) {
                     )
                 })
             }
+            <Footers />
 
         </div>
     )

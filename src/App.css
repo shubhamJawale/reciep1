@@ -93,4 +93,11 @@
 ::-webkit-scrollbar{
   background:grey;
 }
+.footer{
+  display: flex;
+  justify-content: baseline;
+  background-color: gray;
+  color: black;
+  position:sticky;
 
+}
